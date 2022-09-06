@@ -1,0 +1,232 @@
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\employeeService.dll.config
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\employeeService.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\employeeService.pdb
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\csc.exe
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\csc.exe.config
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\csc.rsp
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\csi.exe
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\csi.exe.config
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\csi.rsp
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\System.AppContext.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\System.Console.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\System.IO.Compression.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\System.Net.Http.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\System.ValueTuple.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\vbc.exe
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\vbc.exe.config
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\vbc.rsp
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\VBCSCompiler.exe
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Antlr3.Runtime.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\EntityFramework.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\EntityFramework.SqlServer.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Microsoft.Owin.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Microsoft.Owin.Security.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Newtonsoft.Json.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Owin.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\System.Net.Http.Formatting.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\System.Web.Helpers.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\System.Web.Http.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\System.Web.Http.Owin.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\System.Web.Http.WebHost.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\System.Web.Mvc.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\System.Web.Optimization.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\System.Web.Razor.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\System.Web.WebPages.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\System.Web.WebPages.Razor.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\WebGrease.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Newtonsoft.Json.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\System.Net.Http.Formatting.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\System.Web.Helpers.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\System.Web.Http.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\System.Web.Http.WebHost.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\System.Web.Mvc.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\System.Web.Optimization.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\System.Web.Razor.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\System.Web.WebPages.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\System.Web.WebPages.Razor.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Antlr3.Runtime.pdb
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\EntityFramework.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\EntityFramework.SqlServer.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Microsoft.Owin.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Microsoft.Owin.Security.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\System.Web.Http.Owin.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\obj\Debug\employeeService.csproj.AssemblyReference.cache
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\obj\Debug\employeeService.csproj.CoreCompileInputs.cache
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\obj\Debug\employeeService.csproj.CopyComplete
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\obj\Debug\employeeService.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\employeeService\employeeService\obj\Debug\employeeService.pdb
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\employeeService.dll.config
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\employeeService.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\employeeService.pdb
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\csc.exe
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\csc.exe.config
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\csc.rsp
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\csi.exe
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\csi.exe.config
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\csi.rsp
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\System.AppContext.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\System.Console.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\System.IO.Compression.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\System.Net.Http.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\System.ValueTuple.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\vbc.exe
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\vbc.exe.config
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\vbc.rsp
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\VBCSCompiler.exe
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Antlr3.Runtime.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\EntityFramework.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\EntityFramework.SqlServer.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Microsoft.Owin.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Microsoft.Owin.Security.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Newtonsoft.Json.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Owin.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\System.Net.Http.Formatting.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\System.Web.Helpers.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\System.Web.Http.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\System.Web.Http.Owin.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\System.Web.Http.WebHost.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\System.Web.Mvc.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\System.Web.Optimization.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\System.Web.Razor.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\System.Web.WebPages.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\System.Web.WebPages.Razor.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\WebGrease.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Newtonsoft.Json.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\System.Net.Http.Formatting.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\System.Web.Helpers.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\System.Web.Http.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\System.Web.Http.WebHost.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\System.Web.Mvc.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\System.Web.Optimization.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\System.Web.Razor.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\System.Web.WebPages.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\System.Web.WebPages.Razor.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Antlr3.Runtime.pdb
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\EntityFramework.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\EntityFramework.SqlServer.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Microsoft.Owin.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Microsoft.Owin.Security.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\System.Web.Http.Owin.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\obj\Debug\employeeService.csproj.AssemblyReference.cache
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\obj\Debug\employeeService.csproj.CoreCompileInputs.cache
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\obj\Debug\employeeService.csproj.CopyComplete
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\obj\Debug\employeeService.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\API\token Authontication\employeeService\employeeService\obj\Debug\employeeService.pdb

@@ -1,0 +1,121 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body style="padding-top:20px">
+    <div class="col-md-10 col-md-offset-1">
+        <!--10 col and 1 or right and 1 or left-->
+        <div class="well">
+            <table class="table table-bordered">
+                <thead>
+                    <tr class="success">
+                        <th colspan="2">
+                            Existing user login
+                            <a class="btn btn-success pull-right" href="Register.html" >Register</a>
+                        </th>
+                   
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            Username
+                        </td>
+                        <td>
+                            <input type="text" placeholder="Username" id="txtusername" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Password
+                        </td>
+                        <td>
+                            <input type="password" placeholder="password" id="txtpassword" />
+                        </td>
+                    </tr>
+                  
+                    <tr class="success">
+                        <td colspan="2">
+                            <input type="button" class="btn btn-success" id="btnLogin" value="Login" />
+                        </td>
+
+                    </tr>
+                </tbody>
+            </table>
+
+            
+            <div id="divError" class="alert alert-danger collapse">
+                <a id="linkClose" class="close" href="#"> &times; </a>
+                <div id="divErrorText"></div>
+            </div>
+
+
+        </div>
+
+    </div>
+
+    <script src="Scripts/jquery-3.4.1.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            //this for dismis error note
+            $('#linkClose').click(function () {
+                $('#divError').hide('fade');
+            });
+
+        
+
+
+            $('#btnLogin').click(function () {
+
+                
+                $.ajax({
+                    url: 'http://localhost:44338/token',
+                    //url: '/token', or this 
+
+                    method: 'post',
+                    contentType: 'application/json',
+                    //contentType: 'application/x-www-form-urlencoded; charset=UTF-8', or this
+
+                    data: {
+                        username: $('#txtusername').val(),
+                        password: $('#txtpassword').val(),
+                        grant_type:'password'
+                    },
+                    success: function (response) {
+                        //$('#divErrorText').text(JSON.stringify(response));//fill it with error
+                        ////now display error
+                        //$('#divError').show('fade');
+
+                        //access token will lose if close the browser
+                        //sessionStorage.setItem('accessToken', response.access_token);
+
+                      //access token will not lose if close the browser only on log off
+                        localStorage.setItem('accessToken', response.access_token);
+                        localStorage.setItem('username_key', response.userName);
+                        window.location.href = "data.html";
+
+                          //$('#divErrorText').text(JSON.stringify(response));//to display the token info
+                        ////now display error
+                        //$('#divError').show('fade');
+                    },
+                    error: function (jqxhr) {
+                        $('#divErrorText').text(jqxhr.responseText);//fill it with error
+                        //now display error
+                        $('#divError').show('fade');
+                    },
+
+
+                });
+
+
+            });
+
+        });
+    </script>
+</body>
+</html>
